@@ -1,6 +1,6 @@
 # Jake Wardon
 
-Principal/Staff-level software and platform engineer with 14+ years of experience building software, cloud infrastructure, developer platforms, distributed systems, and security capabilities. Currently focused on the intersection of AI/ML systems, infrastructure, and cybersecurity.
+Principal/Staff-level software and platform engineer with 14+ years of experience building software, cloud infrastructure, developer platforms, distributed systems, and security capabilities including work in regulated environments. Currently focused on the intersection of AI/ML systems, infrastructure, and cybersecurity.
 
 ## Current Open-Source Work
 
