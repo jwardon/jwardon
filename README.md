@@ -1,16 +1,13 @@
-## Hi there 👋
+# Jake Wardon
 
-<!--
-**jwardon/jwardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal/Staff-level software and platform engineer with 14+ years of experience building software, cloud infrastructure, developer platforms, distributed systems, and security capabilities. Currently focused on the intersection of AI/ML systems, infrastructure, and cybersecurity.
 
-Here are some ideas to get you started:
+## Current Open-Source Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [AI Project Scanner](https://github.com/jwardon/ai-project-scanner)
+
+Security scanner for AI/ML projects, including source code, dependencies, models, configuration, and provenance. The project applies AI supply-chain security principles through practical tooling, beginning with safe static analysis of potentially executable model artifacts.
+
+### [AI Security 101](https://github.com/jwardon/ai-security-101)
+
+A practical guide to understanding and securing AI/ML systems, covering AI supply-chain attacks, prompt injection, data poisoning, sensitive information disclosure, security controls, threat modeling, monitoring, and incident response.
